@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+body {
+    background: url(images/substack.jpg);
+    background-size: cover;
+}
+.first_img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+.flex_sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+.search {
+    height: 2.1rem;
+    width: 14rem;
+    border-radius: 5px;
+}
+.start_writing  {
+    background-color: orangered;
+    color: white;
+    text-align: justify;
+    height: 35px;
+    width: 100px;
+    text-decoration: none;
+}
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30px;
+}
