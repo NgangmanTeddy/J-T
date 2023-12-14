@@ -75,6 +75,7 @@ Box Model
 # Modules
   – header
   – footer
+  - main
 ==================================================================================
 ==================================================================================
 */
@@ -96,5 +97,35 @@ Box Model
 =================================================================================
 =================================================================================
 */
+
+footer {
+	background-color: yellowgreen;
+	width: 100%;
+	height: 706px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer_cont {
+	background-color: yellow ;
+	width: 89.1%;
+	height: 529px;
+}
+
+.footer_head {
+	background-color: wheat;
+	width: 100%;
+	height: 489PX;
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer_btm {
+	background-color: violet;
+	width: 100%;
+	height: 88px;
+}
+
 
 
