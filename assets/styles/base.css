@@ -195,6 +195,20 @@ Box Model
 =================================================================================
 */
 
+.testimony {
+	background-color: thistle;
+	width: 100%;
+	height: 563px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.testimony_cont {
+	background-color: teal;
+	width: 71.8%;
+	height: 323px;
+}
 
 
 
@@ -218,4 +232,19 @@ Box Model
 =================================================================================
 =================================================================================
 */
+
+.start {
+	background-color: tomato;
+	width: 100%;
+	height: 388px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.start_cont {
+	background-color: turquoise;
+	width: 44%;
+	height: 142px;
+}
 
