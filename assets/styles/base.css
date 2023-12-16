@@ -183,6 +183,58 @@ Box Model
 =================================================================================
 */
 
+.experience {
+	background-color: teal;
+	width: 100%;
+	height: 1109px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.experience_cont {
+	background-color: red;
+	width: 91.5%;
+	height: 869px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.experience_head {
+	background-color: steelblue;
+	width: 100%;
+	height: 68.2px;
+}
+
+.experience_body {
+	background-color: snow;
+	width: 100%;
+	height: 869px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.experience_img {
+	background-color: slategrey;
+	width: 44.4%;
+	height: 760px;
+}
+
+.experience_sub {
+	background-color: springgreen;
+	width: 47.5%;
+	height: 85.5%;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+
+.experience_main {
+	background-color: slateblue;
+	width: 100%;
+	height: 245.79px;
+}
 
 
 
@@ -221,10 +273,68 @@ Box Model
 =================================================================================
 */
 
+.basics {
+	background-color: yellowgreen;
+	width: 100%;
+	height: 1130.26px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
+.basics_cont {
+	background-color: yellow;
+	width: 79.7%;
+	height: 890.3px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+	justify-content: center;
+}
 
+.basics_head {
+	background-color: whitesmoke;
+	width: 37.4%;
+	height: 69px;
+}
 
+.basics_body {
+	background-color: wheat;
+	width: 100%;
+	height: 742px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
 
+.basics_main {
+	background-color: violet;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.nine_two {
+	background-color: tomato;
+	height: 92px;
+}
+
+.seven_nine {
+	background-color: turquoise;
+	height: 78px;
+}
+
+.basic_quest {
+	background-color: thistle;
+	width: 47%;
+	height: 100%;
+}
+
+.basic_ans {
+	background-color: teal;
+	width: 47%;
+	height: 100%;
+}
 /*
 =================================================================================
 =================================================================================
