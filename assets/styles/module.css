@@ -89,6 +89,103 @@ Box Model
 =================================================================================
 */
 
+header {
+	background-color: yellowgreen;
+	width: 100%;
+	height: 780px;
+}
+
+.header_btm {
+	width: 100%;
+	height: 708px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.header_main {
+	background-color: springgreen;
+	width: 538.51px;
+	height: 238px;
+
+}
+
+/*
+=================================================================================
+=================================================================================
+  – main
+=================================================================================
+=================================================================================
+*/
+
+main {
+	background-color: darkslategray;
+	width: 100%;
+	height: 1255.6px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.main_cont {
+	background-color: yellowgreen;
+	width: 91.5%;
+	height: 1051px;
+	display: flex;
+	align-content: space-between;
+	flex-wrap: wrap;
+}
+
+.main_pre {
+	background-color: teal;
+	width: 100%;
+	height: 136.396px;
+}
+
+.main_body {
+	background-color: wheat;
+	width: 100%;
+	height: 605px;
+	overflow: hidden;
+}
+
+.main_body_cont {
+	width: auto;
+	height: 605px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+
+
+.main_row {
+	background-color: tomato;
+	width: 100%;
+	height: max-content;
+	display: flex;
+	justify-content: space-between;
+	flex-shrink: 0;
+}
+
+.num {
+	background-color: thistle;
+	width: 78px;
+	height: 64px;
+}
+
+.main_col2 {
+	background-color: teal;
+	width: 376px;
+	height: auto;
+	display: flex;
+}
+
+.main_col3 {
+	background-color: tan;
+	width: 57.3%;
+	height: auto;
+}
 
 /*
 =================================================================================
